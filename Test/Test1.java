@@ -27,7 +27,7 @@ public class Test1 {
     }    
     public void showArray(List<Long> list){
     	for (Long li : list){
-    		System.out.println(li);
+    		System.out.println(li+"!!!!");
     	}
     	
     }
