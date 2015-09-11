@@ -27,7 +27,7 @@ public class Test1 {
     }    
     public void showArray(List<Long> list){
     	for (Long li : list){
-    		System.out.println(li+"0000");
+    		System.out.println(li+"0");
     	}
     	
     }
