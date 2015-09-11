@@ -40,6 +40,6 @@ public class Test1 {
     	finish = System.currentTimeMillis();
     	//t.showArray(list);
     	System.out.println("Time = " + (finish - start));
-    	
+    	System.out.println("Oh shee...")
     }
 }
